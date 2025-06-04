@@ -1,1 +1,1 @@
-# Smart_reccommender
+# Smart_recommender
